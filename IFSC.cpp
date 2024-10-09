@@ -16,7 +16,6 @@ int main(){
         cin>>ifsc_Code;
         length = ifsc_Code.length();
     }
-    // cout<<"Length = "<<length;
 
     bool token=true;
 
