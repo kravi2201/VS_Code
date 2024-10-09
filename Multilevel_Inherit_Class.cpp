@@ -44,7 +44,7 @@ class SubInherit2{
     }
 
     void setter(SubInherit1& obj1){
-        cout<<"Number3 = "<<obj1.number3<<endl<<"Number4 = "<<obj1.number4<<endl;
+        cout<<endl<<"Number3 = "<<obj1.number3<<endl<<"Number4 = "<<obj1.number4<<endl;
     }
 
     void setter1(SubInherit1& obj1){
