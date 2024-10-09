@@ -25,7 +25,7 @@ class SubInherit1{
         cin>>obj.number2;
     }
     void setter(Inherit& obj){
-        cout<<"Number1 = "<<obj.number1<<endl<<"Number2 = "<<obj.number2<<endl;
+        cout<<endl<<"Number1 = "<<obj.number1<<endl<<"Number2 = "<<obj.number2<<endl;
     }
 
     friend class SubInherit2;
